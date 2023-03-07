@@ -214,8 +214,8 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tbody>
+<!-- <table> -->
+  <!-- <tbody>
     <tr>
       <td align="center"><a href="http://noru0916.github.io"><img src="https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4?s=100" width="100px;" alt="Ashutosh Hathidara"/><br /><sub><b>Ashutosh Hathidara</b></sub></a><br /><a href="https://github.com/noru0916/masterPortfolio/commits?author=noru0916" title="Code">💻</a> <a href="https://github.com/noru0916/masterPortfolio/commits?author=noru0916" title="Documentation">📖</a> <a href="#design-noru0916" title="Design">🎨</a> <a href="#maintenance-noru0916" title="Maintenance">🚧</a> <a href="#ideas-noru0916" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center"><a href="https://danielmarostica.github.io/"><img src="https://avatars3.githubusercontent.com/u/3595998?v=4?s=100" width="100px;" alt="Daniel Marostica"/><br /><sub><b>Daniel Marostica</b></sub></a><br /><a href="https://github.com/noru0916/masterPortfolio/commits?author=danielmarostica" title="Documentation">📖</a> <a href="#design-danielmarostica" title="Design">🎨</a></td>
@@ -251,7 +251,7 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
       <td align="center"><a href="https://github.com/aash1999"><img src="https://avatars.githubusercontent.com/u/39939476?v=4?s=100" width="100px;" alt="Aakash Singh"/><br /><sub><b>Aakash Singh</b></sub></a><br /><a href="https://github.com/noru0916/masterPortfolio/commits?author=aash1999" title="Code">💻</a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->

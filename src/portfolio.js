@@ -19,11 +19,11 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "William Jin",
-  logo_name: "William Jin",
-  nickname: " 我是高级全栈开发人员",
+  title: "Joseph Hakobyan",
+  logo_name: "Joseph Hakobyan",
+  nickname: " React Frontend & Open AI & ChatGPT Expert",
   subTitle:
-    "I have high skills in HTML, CSS frameworks, Styled Components, MUI, CoreUi, Chakra Ui, JavaScript ES6, TypeScript, Python, SQL, PHP, React, Vue, Laravel, JWT, OAuth, SSO, DOM manipulation, Apollo, Git, GitLab, GitHub, CI/CD, Terrafrom, Serverless framework, Stripe, Paypal, Payment Gateway, Amazaon Web Service, Firebase, Supabase, Jest, React-testing-library, cypress, Node, python, MySQL, MongoDB ",
+    "I have high skills in React, Redux, Next.js, TypeScript, Python, OpenAI, ChatGPT, AutoGPT, GPT-4, Chatbot, Node.js, MongoDB, Stripe, SMS, Twilio",
   resumeLink: "", // https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing
   portfolio_repository: "https://github.com/noru0916/myPortfolio.git",
   githubProfile: "https://github.com/noru0916",

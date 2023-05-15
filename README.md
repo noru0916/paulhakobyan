@@ -2,10 +2,10 @@
     <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
 </p>
 
-<h1 align="center"> Experienced Senior Full Stack Developer [ React | AWS | Docker/Kubernetes | Node | Django ] 🔥 </h1> 
+<h1 align="center"> Experienced Senior Frontend Developer [ React | Vue.js | Angular | D3.js | Chart.js | AWS | Docker/Kubernetes | Node | Django ] 🔥 </h1> 
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="http://hits.dwyl.com/noru0916/masterPortfolio"><img alt="HitCounts" src="http://hits.dwyl.com/noru0916/masterPortfolio.svg" /></a>
   <a href="https://nodejs.org/en/blog/release/v12.13.0/"><img alt="NodeJS" src="https://img.shields.io/badge/node-12.14.1-important?style=flat-square" /></a>
   <a href="https://www.npmjs.com/package/npm/v/6.13.4"><img alt="NPM" src="https://img.shields.io/badge/npm-6.13.7-blueviolet?style=flat-square" /></a>
@@ -23,11 +23,11 @@
 </p>
 <p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
 
-<p align="center"> 
+<p align="center">
     <a href="https://noru0916.github.io" target="_blank">
     <img src="images/masterPortfolioThemes.png"></img>
   </a>
-</p>
+</p> -->
 
 :star: Star us on GitHub — it helps!
 
@@ -42,7 +42,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://noru0916.github.io/)**
+To view a live example, **[click here](https://github.com/noru0916)**
 
 # Clone and Use 📋
 
